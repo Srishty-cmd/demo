@@ -1,5 +1,6 @@
 # demo
 this is my first repository
 <br>
-author-srishty sharma
+author-srishty kumari
+
 
